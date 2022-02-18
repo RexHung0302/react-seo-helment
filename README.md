@@ -6,7 +6,7 @@
 
 ![Demo](/demo.gif)
 
-![範例網站](https://rexhung0302.github.io/react-seo-helment/)
+[範例網站](https://rexhung0302.github.io/react-seo-helment/)
 
 ---
 ## 使用方法
