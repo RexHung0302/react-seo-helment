@@ -29,3 +29,5 @@
 [React Helmet Github](https://github.com/nfl/react-helmet)
 
 [React Helmet 介紹](https://normanlin.net/programming/react-helmet)
+
+[[第六週] 基礎 SEO 標籤 - meta、og、JSON-LD](https://yakimhsu.com/project/project_w6_HTML_SEO.html)
