@@ -14,7 +14,7 @@
 ```
 1. $ git clone xxx
 
-2. $ cd react-seo-helment
+2. $ cd react-seo-helmet
 
 3. $ npm i / yarn i
 
